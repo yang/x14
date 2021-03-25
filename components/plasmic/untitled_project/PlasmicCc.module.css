@@ -1,0 +1,7 @@
+.root {
+  display: block;
+  width: 118px;
+  height: 166px;
+  position: relative;
+  background: rgba(68, 192, 255, 0.2);
+}
